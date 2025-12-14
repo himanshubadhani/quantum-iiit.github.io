@@ -24,6 +24,12 @@ NB. These records start October, 2025 onwards. Prior to this, Himanshu edited mo
 
 | Speaker | Edited By | Event held on |
 | - | - | - |
+| Xiangling Xu | Himanshu | 10 December, 2025 |
+| Sayantan Chakraborty | Himanshu | 9 December, 2025 |
+| Alexandru Cojocaru | Niranjan | 8 December, 2025 |
+| Pedro Barrios | Himanshu | 3 December, 2025 |
+| Kushagra Garg | Himanshu |  21 November, 2025 |
+| Pratibha Hegde | Niranjan | 21 November, 2025 |
 | Kunal Marwaha | Himanshu | 19 November, 2025 |
 | Sreetama Das | Niranjan | 13 November, 2025 |
 | Rajamani Vijayaraghavan | Himanshu | 11 November, 2025 |
